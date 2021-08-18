@@ -1,2 +1,2 @@
-config:
-info:"masterbrach,springcloud-config/congif-dev.yml"
+ config:
+  info: "masterbrach,springcloud-config/congif-dev.yml version=2"
