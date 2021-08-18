@@ -1,2 +1,2 @@
-congig:
-info:"masterbrach,clodu-congif-test.yml,version=1"
+ congig:
+  info:"masterbrach,springcloud-config/config-test.yml,version=1"
