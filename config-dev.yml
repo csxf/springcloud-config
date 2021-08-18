@@ -1,2 +1,2 @@
-  congig:
-    info: "masterbrach,springcloud-config/config-dev.yml,version=2"
+congig:
+  info: "masterbrach,springcloud-config/config-dev.yml,version=2"
